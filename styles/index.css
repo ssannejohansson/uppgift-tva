@@ -7,35 +7,40 @@ h1 {
     font-style: italic;
     text-align: center;
     background-color: grey;
-
 }
 
 /* Stil i generell navigation */
-
 nav {
     color: pink;
     text-align: left;
-
 }
 
-
 /* Stil i paragrafer */
-
 p {
     color:purple;
     text-align:center;
-
 }
 
 /* Stil till paragraf med specifikt ID */
 #intern-länk {
     color: red;
     font-style: italic;
+}
 
+#bildtext {
+    text-align: left;
 }
 
 /* Stil för class */
 .test-classes {
     color:green;
+}
 
+img {
+    width: 600px;
+}
+
+h4 {
+    font-size: 30px;
+    text-align: center;
 }
